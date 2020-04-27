@@ -1,2 +1,7 @@
- ##Multi-threading | ##Multi-tasking 
- ----------------- | ----------------
+ Multi-threading | Multi-tasking
+ --------------- | -------------
+ * Multi-threading is thread-based multitasking. | * Multi-tasking is logical extention to multi-programming.
+ * We face 2 overheads in Multi-threading | * To overcome those overheads we use Asynchronous programming(Multi-tasking).
+  1. Switching, data sharing
+  2. Using some of the resources when sitting idle.
+ 
