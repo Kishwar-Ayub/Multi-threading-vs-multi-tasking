@@ -6,3 +6,4 @@
  In Rust, As multithreading causes different threads work at the same time, therefore a thread safety and memory safety catered by borrwing n ownership feature. | In Rust, async fn creates an asynchronous function which returns a Future.
  I don't get the connection bewteen Fearless concurrency n multithreaidng | Future needs to be run on an Executor, so that a task get done.
  We use multithreading when thread is CPU intensive | We use mutitasking when thread is I/O intensive.
+ 
