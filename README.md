@@ -1,4 +1,4 @@
- Multi-threading | Multi-tasking(Async)
+ **Multi-threading** | **Multi-tasking(Async)**
  --------------- | -------------
  Multi-threading is thread-based multitasking. | Multi-tasking is logical extention to multi-programming.
  Multi-threaded programming engages multiple threads | Async programming is single threaded but performing multiple operations on a single thread.
